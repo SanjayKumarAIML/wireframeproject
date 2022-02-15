@@ -13,7 +13,7 @@ The layout of the website is done using "Desktop sketchy GUI".
 
 ## OUTPUT:
 ### Home Page:
-![homepage](./homepage.png)
+![homepage](./page.png)
 
 ### About Us:
 ![aboutus](./aboutus.png)
