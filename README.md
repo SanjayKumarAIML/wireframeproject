@@ -12,9 +12,14 @@ The design is done using Pencil project application.
 The layout of the website is done using "Desktop sketchy GUI".
 
 ## OUTPUT:
-![homepage](./Homepage.png)
-![evolution](./Evolution.png)
-![Achievements](./Achievements.png)
+### Home Page:
+![homepage](./homepage.png)
+
+### About Us:
+![aboutus](./aboutus.png)
+
+### Director's Message:
+![dir](./direct.png)
 
 
 ## Result:
